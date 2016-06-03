@@ -13,7 +13,7 @@ Trump Recruiter Bot
         :alt: Documentation Status
 
 
-Trump Recruiter Bot is a Markov chain mashup bot using recruiter spam and Trump speechhes.
+Trump Recruiter Bot is a Markov chain mashup bot using recruiter spam and Trump speeches.
 
 * Free software: ISC license
 * Documentation: https://trump_recruiter_bot.readthedocs.org.
